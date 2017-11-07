@@ -1,0 +1,30 @@
+Introduction
+    Online Complaint Management System (SCT CMS) allows users to report complaints in a company to submit their 
+complaints about malfunctioning equipment or other equipment they are using so that people in charge of 
+maintenance of the complaints can respond to user under an online system. The Online Complaint Management 
+System is developed for The School of Computing and Technology in Eastern Mediterranean University.
+
+	For an environment such as The School of Computing and Technology, which is largely based around computer systems, maintaining 
+complaints about hardware, software, or other complaints can often get frustrating as the department is currently using phone 
+calls to report complaints for maintenance.   SCT CMS aims to overcome this issue by providing an easy to use, well-built 
+system and help make the working environment a much more comfortable place to work in. 
+1.1 Project Objectives
+The main aim of our project is to 
+    • Provide easy to use GUI. 
+    • Provide simple complaint submission for complainant.
+    • Keep track of complaint handling phase.
+    • Enable complainants to comment on a complaint.
+    • Keep the complaints organized and recorded.  
+    • Keep the complaint history.
+    • Enable administrator handle adding, editing and deleting users.
+    • Enable administrator handle adding, editing and deleting floors.
+    • Enable administrator handle adding, editing and deleting rooms.
+    • Enable administrator handle adding, editing and deleting equipment.
+    • Enable administrator handle adding, editing and deleting categories.
+	The core idea of the system is handling complaints in a simple and precise way. To state a complaint about a specific problem can get 
+  very difficult, so, to minimize the frustration, our system simplifies the complaint submission and maintenance process.   
+
+1.2 Project Scope and Constraints
+  This project involves the creation of the SCT Complaint Management System (SCT CMS) which is an online system built to handle complaint 
+submissions and keep track of complaint maintenance. The system is built to submit complaints for maintenance, and get a reply from the 
+maintenance office indicating the status of the complaint. The project will be completed by 23 May 2017.
