@@ -24,7 +24,8 @@ The main aim of our project is to
 	The core idea of the system is handling complaints in a simple and precise way. To state a complaint about a specific problem can get 
   very difficult, so, to minimize the frustration, our system simplifies the complaint submission and maintenance process.   
 
-1.2 Project Scope and Constraints
-  This project involves the creation of the SCT Complaint Management System (SCT CMS) which is an online system built to handle complaint 
-submissions and keep track of complaint maintenance. The system is built to submit complaints for maintenance, and get a reply from the 
-maintenance office indicating the status of the complaint. The project will be completed by 23 May 2017.
+ Project Scope
+  	This library project aims to make people to do their needs in a short time bu using the digital platforms. On this library system , 
+  users can search the book and can see easily that book is exists or not in the library then quickly can open a registry and get the 
+  book or copy. On worker side of the library system, they can follow the book and create a new register for user in seconds. The project 
+  will be completed by 02/01/2018.
