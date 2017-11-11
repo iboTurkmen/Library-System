@@ -1,8 +1,0 @@
-1-)Login to system
-2-)Searching Book
-3-)Register a User
-4-)Register a Book
-5-)Create a Book Category
-6-)List all the books of an author
-7-)Create an Admin Account
-8-)
