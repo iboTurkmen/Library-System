@@ -1,14 +1,34 @@
 MAIN EVENTS
+-----------
 1-)Login to system(main)
 2-)Searching Book(main)
 3-)Register a User(main)
 4-)Register a Book(main)
 5-)A New Book Request(main)
-6-)..
+6-)Password Recovery(main)
+7-)..
+
 
 SUB EVENTS
-(Searching)List all the books of an author(sub)
+-----------
+(Login to system)Enter Username(sub)
+(Login to system)Enter Password(sub)
+(Login to system)Recover the Password(sub)
+
+(Password Recovery)Enter Username(sub)
+(Password Recovery)Enter E-Mail Related to Username(sub)
+(Password Recovery)Click on RESET PASSWORD BUTTON(sub)
+
+(Searching Book)Searches by Book Title(sub)
+(Searching Book)Searches by Book Author(sub)
+(Searching Book)Searches by Book ISBN Code(sub)
+(Searching Book)Searches by Book Edition(sub)
+(Searching Book)Searches by Book Category(sub)
+(Searching Book)Searches by Book Edition(sub)
+
+
 (A New Book Request)Check the book availability(sub)
 (A New Book Request)System Creates the request details(sub)
 (A New Book Request)Reserving the book for the customer(sub)
+
 (Register a Book)Create a Book Category(sub)
