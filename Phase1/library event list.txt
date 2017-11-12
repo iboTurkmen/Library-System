@@ -1,35 +1,47 @@
 MAIN EVENTS
 -----------
 1-)Login to system(main)
-2-)Searching Book(main)
+2-)Password Recovery(main)
 3-)Register a User(main)
 4-)Register a Book(main)
-5-)A New Book Request(main)
-6-)Password Recovery(main)
-7-)..
+5-)Searching Book(main)
+6-)A New Book Request(main)
+7-)Create a Book Category(main)
+8-)..
 
 
 SUB EVENTS
 -----------
 (Login to system)Enter Username(sub)
 (Login to system)Enter Password(sub)
-(Login to system)Click on "LOGIN BUTTON"(sub)
 (Login to system)Recover the Password(sub)
-(Login to system)Click on "FORGOT MY PASSWORD"(sub)
+(Login to system)Create a New Account(sub)
 
 (Password Recovery)Enter Username(sub)
 (Password Recovery)Enter E-Mail Related to Username(sub)
 (Password Recovery)Click on RESET PASSWORD BUTTON(sub)
+
+(Register a User)Enter E-Mail Address(sub)
+(Register a User)Enter Citizen Number(sub)
+(Register a User)Enter Name(sub)
+(Register a User)Enter Surname(sub)
+(Register a User)Enter Date of Birth(sub)
+(Register a User)Enter Home Address(sub)
+(Register a User)Enter Telephone Number(sub)
+(Register a User)Enter Student Number(if exists)(sub)
+(Register a User)Enter University Name(if exists)(sub)
+(Register a User)Enter University Department(if exists)(sub)
+
+(Register a Book)...(sub)
 
 (Searching Book)Searches by Book Title(sub)
 (Searching Book)Searches by Book Author(sub)
 (Searching Book)Searches by Book ISBN Code(sub)
 (Searching Book)Searches by Book Edition(sub)
 (Searching Book)Searches by Book Category(sub)
-(Searching Book)Searches by Book Edition(sub)
 
 (A New Book Request)Check the book availability(sub)
 (A New Book Request)System Creates the request details(sub)
 (A New Book Request)Reserving the book for the customer(sub)
 
-(Register a Book)Create a Book Category(sub)
+(Create a Book Category)Type The New Book Category Name(sub)
