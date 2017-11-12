@@ -1,11 +1,14 @@
+MAIN EVENTS
 1-)Login to system(main)
 2-)Searching Book(main)
 3-)Register a User(main)
 4-)Register a Book(main)
-5-)Create a Book Category(main)
-6-)List all the books of an author(sub)
-7-)
-8-)Get a new book request from user(main)
-9-)Check the book availability(sub)
-10-)System Creates the request details(sub)
-11-)Reserving the book for the customer(sub)
+5-)A New Book Request(main)
+6-)..
+
+SUB EVENTS
+(Searching)List all the books of an author(sub)
+(A New Book Request)Check the book availability(sub)
+(A New Book Request)System Creates the request details(sub)
+(A New Book Request)Reserving the book for the customer(sub)
+(Register a Book)Create a Book Category(sub)
