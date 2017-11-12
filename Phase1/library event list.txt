@@ -13,7 +13,9 @@ SUB EVENTS
 -----------
 (Login to system)Enter Username(sub)
 (Login to system)Enter Password(sub)
+(Login to system)Click on "LOGIN BUTTON"(sub)
 (Login to system)Recover the Password(sub)
+(Login to system)Click on "FORGOT MY PASSWORD"(sub)
 
 (Password Recovery)Enter Username(sub)
 (Password Recovery)Enter E-Mail Related to Username(sub)
@@ -25,7 +27,6 @@ SUB EVENTS
 (Searching Book)Searches by Book Edition(sub)
 (Searching Book)Searches by Book Category(sub)
 (Searching Book)Searches by Book Edition(sub)
-
 
 (A New Book Request)Check the book availability(sub)
 (A New Book Request)System Creates the request details(sub)
