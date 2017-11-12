@@ -5,5 +5,11 @@
 5-)Create a Book Category
 6-)List all the books of an author
 7-)Create an Admin Account
-8-)test
-9-)connect remotely
+8-)Get the book request from user
+9-)Check the book availability
+10-)System Creates the request details
+11-)Reserving the book for the customer
+12-)Checkout Session
+13-)Payment info
+14-)Composing the invoice
+15-)Finalizing the Process
