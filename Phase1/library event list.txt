@@ -7,7 +7,8 @@ MAIN EVENTS
 5-)Searching Book(main)
 6-)A New Book Request(main)
 7-)Create a Book Category(main)
-8-)..
+8-)log out from system
+9-)..
 
 SUB EVENTS
 -----------
@@ -45,3 +46,5 @@ SUB EVENTS
 (A New Book Request)Reserving the book for the customer(sub)
 
 (Create a Book Category)Type The New Book Category Name(sub)
+
+(log out from system)press log out button to log out from system(sub)
