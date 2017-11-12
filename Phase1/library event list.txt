@@ -10,6 +10,6 @@
 10-)System Creates the request details
 11-)Reserving the book for the customer
 12-)Checkout Session
-13-)Payment info
-14-)Composing the invoice
-15-)Finalizing the Process
+13-)
+14-)
+15-)
