@@ -7,7 +7,7 @@ MAIN EVENTS
 5-)Searching Book(main)
 6-)A New Book Request(main)
 7-)Create a Book Category(main)
-8-)log out from system
+8-)Log out from system(main)
 9-)..
 
 SUB EVENTS
@@ -17,7 +17,7 @@ SUB EVENTS
 (Login to system)Recover the Password(extra-button)(sub)
 (Login to system)Create a New Account(extra-button)(sub)
 (Login to system)Create a Session on the System(sub)
-(Login to system)Record the Session Started Time on Database with USERID(sub)
+(Login to system)Open and Record the Session Started Time to Database with USERID(sub)
 
 (Password Recovery)Enter Username(sub)
 (Password Recovery)Enter E-Mail Related to Username(sub)
@@ -47,4 +47,4 @@ SUB EVENTS
 
 (Create a Book Category)Type The New Book Category Name(sub)
 
-(log out from system)press log out button to log out from system(sub)
+(log out from system)Close and Record the Session Stoped Time to Database with USERID(sub)
