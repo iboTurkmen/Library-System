@@ -1,9 +1,18 @@
   Introduction
 
-    Libraries have an important place on human life. From a child to an adult ,all the people in case of need to get information.We can access to information from internet in a second but still there is a problem, it is not a enough to find an information , it must be reliable and referenced. In this case books are coming to help us and of course libraries too with them. OK, now we need to manage the our libraries in the most efficient way and increase the power of the information more and more. So, our computer based-library system provides you to reach a book safely ,fast and sharable. Also It provides a preserved data controlling and analyse the book and user usage in a real-time application. A library should make the service receipents to use library more and access to data safer and faster. A library system should being able to integrated easily from a smallest library up to biggest one and this system already designed for this purpose.
+      Libraries have an important place on human life. From a child to an adult ,all the people in case
+    of need to get information.We can access to information from internet in a second but still there
+    is a problem, it is not a enough to find an information , it must be reliable and referenced. In
+    this case books are coming to help us and of course libraries too with them. OK, now we need to 
+    anage the our libraries in the most efficient way and increase the power of the information more
+    and more. So, our computer based-library system provides you to reach a book safely ,fast and 
+    sharable. Also It provides a preserved data controlling and analyse the book and user usage in a 
+    real-time application. A library should make the service receipents to use library more and access 
+    to data safer and faster. A library system should being able to integrated easily from a smallest 
+    library up to biggest one and this system already designed for this purpose.
 
   Project Scope
-  
+
   	This library project aims to make people to do their needs in a short time but using the digital platforms. On this library system , 
   users can search the book and can see easily that book is exists or not in the library then quickly can open a registry and get the 
   book or copy. On worker side of the library system, they can follow the book and create a new register for user in seconds. The project 
