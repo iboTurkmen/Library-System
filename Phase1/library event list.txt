@@ -9,17 +9,17 @@ MAIN EVENTS
 7-)Create a Book Category(main)
 8-)..
 
-
 SUB EVENTS
 -----------
 (Login to system)Enter Username(sub)
 (Login to system)Enter Password(sub)
-(Login to system)Recover the Password(sub)
-(Login to system)Create a New Account(sub)
+(Login to system)Recover the Password(extra-button)(sub)
+(Login to system)Create a New Account(extra-button)(sub)
+(Login to system)Create a Session on the System(sub)
+(Login to system)Record the Session Started Time on Database with USERID(sub)
 
 (Password Recovery)Enter Username(sub)
 (Password Recovery)Enter E-Mail Related to Username(sub)
-(Password Recovery)Click on RESET PASSWORD BUTTON(sub)
 
 (Register a User)Enter E-Mail Address(sub)
 (Register a User)Enter Citizen Number(sub)
