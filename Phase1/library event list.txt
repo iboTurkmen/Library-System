@@ -1,15 +1,11 @@
-1-)Login to system
-2-)Searching Book
-3-)Register a User
-4-)Register a Book
-5-)Create a Book Category
-6-)List all the books of an author
-7-)Create an Admin Account
-8-)Get the book request from user
-9-)Check the book availability
-10-)System Creates the request details
-11-)Reserving the book for the customer
-12-)Checkout Session
-13-)
-14-)
-15-)
+1-)Login to system(main)
+2-)Searching Book(main)
+3-)Register a User(main)
+4-)Register a Book(main)
+5-)Create a Book Category(main)
+6-)List all the books of an author(sub)
+7-)
+8-)Get a new book request from user(main)
+9-)Check the book availability(sub)
+10-)System Creates the request details(sub)
+11-)Reserving the book for the customer(sub)
