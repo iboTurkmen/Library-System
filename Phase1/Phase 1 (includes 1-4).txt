@@ -4,7 +4,7 @@
     of need to get information.We can access to information from internet in a second but still there
     is a problem, it is not a enough to find an information , it must be reliable and referenced. In
     this case books are coming to help us and of course libraries too with them. OK, now we need to 
-    anage the our libraries in the most efficient way and increase the power of the information more
+    manage the our libraries in the most efficient way and increase the power of the information more
     and more. So, our computer based-library system provides you to reach a book safely ,fast and 
     sharable. Also It provides a preserved data controlling and analyse the book and user usage in a 
     real-time application. A library should make the service receipents to use library more and access 
