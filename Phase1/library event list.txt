@@ -33,7 +33,15 @@ SUB EVENTS
 (Register a User)Enter University Name(if exists)(sub)
 (Register a User)Enter University Department(if exists)(sub)
 
-(Register a Book)...(sub)
+(Register a Book)Select Book Category(sub)
+(Register a Book)Enter Book Name(sub)
+(Register a Book)Enter Author Name(sub)
+(Register a Book)Enter ISBN Code(sub)
+(Register a Book)Enter Page Number(sub)
+(Register a Book)Enter Edition Number(sub)
+(Register a Book)Enter Book Distribution Date(sub)
+(Register a Book)Enter Name of Who Submitted The Book(sub)
+(Register a Book)Dedicate an ID to Book, Automatically By The System(sub)
 
 (Searching Book)Searches by Book Title(sub)
 (Searching Book)Searches by Book Author(sub)
