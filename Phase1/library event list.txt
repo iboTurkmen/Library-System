@@ -7,8 +7,11 @@ MAIN EVENTS
 5-)Searching Book(main)
 6-)A New Book Request(main)
 7-)Create a Book Category(main)
-8-)Log out from system(main)
-9-)..
+
+9-)map for library section(main)
+10-)Archives of newspapers(main)
+11-)
+12-)..
 
 SUB EVENTS
 -----------
@@ -55,4 +58,7 @@ SUB EVENTS
 
 (Create a Book Category)Type The New Book Category Name(sub)
 
-(log out from system)Close and Record the Session Stoped Time to Database with USERID(sub)
+
+(map for library section)
+
+(Archives of newspapers)
