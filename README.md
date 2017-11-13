@@ -5,3 +5,7 @@ The project scope is to develop a library system that can be manageable on digit
 To follow documentation : 
 
 	https://docs.google.com/document/d/1pT8N82vrhrn1-2zwui5DjMsBxkO5JjjWgP-f5On93lQ/edit?usp=sharing
+
+To follow event list table : 
+
+	https://docs.google.com/document/d/15nBV89_F9tWqMN6R8bIpXEFIhB_AaWHmaIi-yI8AVPw/edit?usp=sharing
