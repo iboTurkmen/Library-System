@@ -40,3 +40,8 @@ The main aim of our project is to
     • Library manager(ADMIN) can add, edit and remove a book(s).
 
         So, in summary object of the project is saving time in the library for users and managers.
+
+
+     Project Benefits
+
+    		Users, managers and library workers can save their time. Users can find by using searching waywhich book they want to find. Managers can follow the flow of all the library and workers situations. Workers can do their work learned in short time clearly and safely by the provided system tools. All the people related with the library will have less problem and more time.
